@@ -6,4 +6,5 @@ Topics Covered fo far:<br>
 4. SDLC<br>
 5. OOPS<br>
 6. Jira<br>
+7. DataBases(MySQL)<br>
 
